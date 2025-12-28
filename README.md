@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Santiago also known as Jxhn! 👋
 
-### 👨‍💻 FiveM Noob Developer & Web Noob Creator & Cross-Platfrom Mobile App Developer
+### 👨‍💻 Junior FiveM Developer & Junior Web Developer & Junior Cross-Platfrom Mobile App Developer
 
 I'm a passionate developer learning the ropes of FiveM scripting and building modern web applications. I specialize in TypeScript and JavaScript, creating solutions for **J Dev | Shop and More** and various community projects.
 
