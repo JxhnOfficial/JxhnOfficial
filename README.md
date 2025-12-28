@@ -1,4 +1,4 @@
-# Hi there, I'm Jonathan Santuiago also known as Jxhn! 👋
+# Hi there, I'm Jonathan Santiago also known as Jxhn! 👋
 
 ### 👨‍💻 FiveM Noob Developer & Web Noob Creator & Cross-Platfrom Mobile App Developer
 
