@@ -1,26 +1,37 @@
-# Hi there, I'm Jonathan Santiago also known as Jxhn! 👋
+# Hi there, I'm Jonathan Santiago, also known as Jxhn! 👋  
 
-### 👨‍💻 Junior FiveM Developer & Junior Web Developer & Junior Cross-Platfrom Mobile App Developer
+## 👨‍💻 Web Developer | Cross-Platform Mobile App Developer | FiveM Developer  
 
-I'm a passionate developer learning the ropes of FiveM scripting and building modern web applications. I specialize in TypeScript and JavaScript, creating solutions for **J Dev | Shop and More** and various community projects.
+I am a passionate developer focused on building modern web and mobile applications. I specialize in TypeScript and JavaScript, developing scalable and efficient solutions for **J Dev | Shop and More** as well as various community-driven projects.  
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Tools:**
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
-</p>
+In my free time, I work on FiveM server development, creating and optimizing custom scripts in Lua, managing server resources, and implementing performance-focused solutions to ensure stability and scalability.
 
 ---
 
-### 🔭 Featured Projects
+## 🛠️ Tech Stack  
 
-- **🛒 [J Dev | Shop and More Website](https://jdevshopandmore.xyz)** - My J Dev | Shop and More website.
-- **🌐 [Personal Website](https://jonathansantiago.xyz)** - My personal portfolio website.
-- **🎮 Game Resources** - Custom scripts including `jdev-weapon-pack-airsoft`, `jdev-freecar`, and `jdev-communityservice`.
+### Languages & Technologies  
+
+- .NET  
+- React Native  
+- TypeScript  
+- JavaScript  
+- Lua  
+
+---
+
+## 🔭 Featured Projects  
+
+- 🛒 **[J Dev | Shop and More Website](https://jdevshopandmore.xyz)** – Official e-commerce platform developed and maintained by me.  
+- 🌐 **[Personal Portfolio Website](https://jonathansantiago.xyz)** – Professional portfolio showcasing projects and technical skills.  
+- 🎮 **FiveM Game Resources** – Custom-developed scripts including:  
+  - `jdev-weapon-pack-airsoft`  
+  - `jdev-freecar`  
+  - `jdev-communityservice`  
+
+---
+
+## 📫 Connect With Me  
+
+- 🌐 Portafolio Website: https://jonathansantiago.xyz  
+- 🛒 FiveM Website: https://jdevshopandmore.xyz  
