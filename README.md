@@ -18,19 +18,6 @@ In my free time, I work on FiveM server development, creating and optimizing cus
 - JavaScript  
 - Lua  
 
----
-
-## 🔭 Featured Projects  
-
-- 🛒 **[J Dev | Shop and More Website](https://jdevshopandmore.xyz)** – Official e-commerce platform developed and maintained by me.  
-- 🌐 **[Personal Portfolio Website](https://jonathansantiago.xyz)** – Professional portfolio showcasing projects and technical skills.  
-- 🎮 **FiveM Game Resources** – Custom-developed scripts including:  
-  - `jdev-weapon-pack-airsoft`  
-  - `jdev-freecar`  
-  - `jdev-communityservice`  
-
----
-
 ## 📫 Connect With Me  
 
 - 🌐 Portafolio Website: https://jonathansantiago.xyz  
