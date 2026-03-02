@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Web Developer | Cross-Platform Mobile App Developer | FiveM Developer  
 
-I am a passionate developer focused on building modern web and mobile applications. I specialize in TypeScript and JavaScript, developing scalable and efficient solutions for **J Dev | Shop and More** as well as various community-driven projects.  
+I am a passionate developer focused on building modern web and mobile applications. I specialize in TypeScript and JavaScript, developing scalable and efficient solutions for customs proyects as well as various community-driven projects.  
 
 In my free time, I work on FiveM server development, creating and optimizing custom scripts in Lua, managing server resources, and implementing performance-focused solutions to ensure stability and scalability.
 
